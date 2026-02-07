@@ -5,7 +5,7 @@ Maintainer of [Pynguin](https://github.com/se2p/pynguin).
 B.Sc. and M.Sc. Computer Science from [University of Passau](https://www.uni-passau.de/en/), Germany.
 
 * **🧪 Automated Testing:** [Pynguin](https://github.com/se2p/pynguin) — *Search-based unit test generation for Python.*
-* **💼 Professional:** [LinkedIn](https://www.linkedin.com/in/lukas-krodinger-6456b5293)
+* **💼 Professional:** [Website](https://lukro2011.github.io/), [LinkedIn](https://www.linkedin.com/in/lukas-krodinger-6456b5293)
 * **🖥️ Web Design:** [webdesign-krodinger.de](https://webdesign-krodinger.de)
 * **🎓 Academic Research:** [ORCID](https://orcid.org/0009-0005-4571-4757)
 * **📚 Publications:** [DBLP Bibliography](https://dblp.uni-trier.de/pid/412/6751.html)
