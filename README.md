@@ -1,6 +1,6 @@
 # Lukas Krodinger
 
-PhD Candidate in Software Engineering at the [Chair of Software Engineering II](https://www.fim.uni-passau.de/en/chair-for-software-engineering-ii) at [University of Passau](https://www.uni-passau.de/en/), Germany.
+PhD Candidate in Software Engineering at the [Chair of Software Engineering II](https://www.fim.uni-passau.de/en/chair-for-software-engineering-ii), [University of Passau](https://www.uni-passau.de/en/), Germany.
 Maintainer of [Pynguin](https://github.com/se2p/pynguin).
 B.Sc. and M.Sc. Computer Science from [University of Passau](https://www.uni-passau.de/en/), Germany.
 
